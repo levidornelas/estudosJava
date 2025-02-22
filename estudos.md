@@ -46,6 +46,3 @@
 - Testes unitários e de integração com `SpringBootTest`.
 - Mock de dependências com `@MockBean` e `@WebMvcTest`.
 - Teste de endpoints REST com `MockMvc`.
-
-Esses são alguns dos principais fundamentos do Spring e Spring Web!
-
